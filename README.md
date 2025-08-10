@@ -24,14 +24,14 @@ We trained and validated **nnU-Net v2** segmentation models to delineate lobar a
 ## Figures
 
 <p align="center">
-  <img src="images/figure4.png" alt="Volume Changes vs. Atelectasis Grade" width="600">
+  <img src="images/Figure4.png" alt="Volume Changes vs. Atelectasis Grade" width="600">
 </p>
 
 <p align="center">
-  <img src="images/figure7.png" alt="3D Modelling of Lobe Segmentations with progressive grades of atelectasis (top-bottom) and preop-postop (left-right)" width="600">
+  <img src="images/Figure7.png" alt="3D Modelling of Lobe Segmentations with progressive grades of atelectasis (top-bottom) and preop-postop (left-right)" width="600">
 </p>
 
 ## Model checkpoints (preop and postop) avaialable for download here:
-10.6084/m9.figshare.29877509
+[10.6084/m9.figshare.29877509](https://figshare.com/articles/software/_b_Deep-learning_based_quantitative_evaluation_of_postoperative_atelectasis_following_right_upper_lobectomy_b_/29877509)
 
 ## Cite:
