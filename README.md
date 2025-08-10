@@ -35,3 +35,6 @@ We trained and validated **nnU-Net v2** segmentation models to delineate lobar a
 [10.6084/m9.figshare.29877509](https://figshare.com/articles/software/_b_Deep-learning_based_quantitative_evaluation_of_postoperative_atelectasis_following_right_upper_lobectomy_b_/29877509)
 
 ## Cite:
+If you use this code or data, please cite our paper:
+
+**[Full citation to be added upon publication]**
